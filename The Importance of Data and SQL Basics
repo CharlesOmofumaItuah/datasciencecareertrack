@@ -1,6 +1,3 @@
-INTRODUCTION TO SQL
-Create a Table
-
 CREATE TABLE friends (
    id INTEGER,
    name TEXT,
