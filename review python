@@ -1,0 +1,5 @@
+my_age = "I am 30"
+half_my_age = 30 % 2
+greeting = "Good evening"
+name = "charles"
+greeting_with_name = "Good evening Charles"
