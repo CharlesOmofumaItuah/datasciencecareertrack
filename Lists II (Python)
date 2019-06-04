@@ -1,0 +1,3 @@
+ints_and_strings = [1, 2, 3, 'four', 'five', 'seven', 'a', 'b', 'c']
+
+sam_height = ['Sam', 67]
